@@ -119,4 +119,6 @@ Seasonal Trend: [e.g., Sales peaked in December and July]
 
 # Snap Of Dashboard
 
-![Snap](https://github.com/user-attachments/assets/6f396b3e-07c2-49a9-b806-a1942832a467)
+![Image](https://github.com/user-attachments/assets/7964a326-88ac-411a-84ef-960eacdf3781)
+
+
