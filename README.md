@@ -1,7 +1,5 @@
 # Pizza Sales Dashboard
 
-### Dashboard Link : https://github.com/Adarshvr-96/Analyst/blob/main/~%24PORTFOLIO%20(Recovered%20c8c364dee5924237929dda79ba5ec052).pbix
-
 ## Problem Statement
 
 The pizza business operates in a dynamic and customer-driven market, yet lacks clear visibility into its sales performance across products, time periods, and categories. Without an integrated system to track and analyze key performance indicators—such as total revenue, average order value, best-selling products, and sales trends by day or month—management cannot make data-informed decisions to optimize operations and marketing efforts. This dashboard aims to solve that problem by providing a comprehensive view of pizza sales data, enabling stakeholders to monitor performance, identify high- and low-performing items, and uncover actionable insights to drive business growth.
